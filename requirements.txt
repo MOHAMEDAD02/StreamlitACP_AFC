@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+sklearn.decomposition
+sklearn.preprocessing
+matplotlib.pyplot
+seaborn
+prince
